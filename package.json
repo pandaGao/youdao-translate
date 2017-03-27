@@ -1,0 +1,23 @@
+{
+  "name": "youdao-translate",
+  "version": "1.0.0",
+  "description": "Youdao translate open api for Node.js with Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandaGao/youdao-translate.git"
+  },
+  "keywords": [
+    "youdao",
+    "translate"
+  ],
+  "author": "Ryan Gao <me@pandagao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandaGao/youdao-translate/issues"
+  },
+  "homepage": "https://github.com/pandaGao/youdao-translate#readme"
+}
